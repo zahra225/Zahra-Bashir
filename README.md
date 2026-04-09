@@ -3,9 +3,7 @@
 > A modern, responsive personal portfolio website showcasing my Computer Science journey, technical skills, and featured projects.
 
 ## 🚀 Live Demo
-
-[View Portfolio](https://zahra225.github.io/portfolio) *(Update with your actual URL)*
-
+*(https://zahra225.github.io/Zahra-Bashir/)*
 ## ✨ Features
 
 📱 Fully responsive design (mobile, tablet, desktop)
